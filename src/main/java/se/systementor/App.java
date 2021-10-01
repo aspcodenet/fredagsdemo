@@ -18,7 +18,7 @@ public final class App {
      */
     public static void main(String[] args) {
         LoopDemo demo = new LoopDemo();
-        demo.Run();
+        demo.run();
 
         int tal1 = 912; 
         int tal2 = 120; 

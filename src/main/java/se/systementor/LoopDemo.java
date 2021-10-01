@@ -1,7 +1,16 @@
 package se.systementor;
 
 public class LoopDemo {
-    public void Run(){
+    public void run(){
+
+        // int secretPinCode = 123332;
+        // int failedTries = 0;
+
+        // while(true)        {
+
+
+        // }
+
         System.out.println("Skriv in ett startår ex 2002");
         int start = Integer.parseInt(System.console().readLine());
         System.out.println("Skriv in ett slutår ex 2008");
